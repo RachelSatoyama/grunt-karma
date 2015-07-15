@@ -1,7 +1,7 @@
 {
-  "name": "grunt-karma",
+  "name": "grunt-karma-new",
   "version": "0.11.2",
-  "description": "grunt plugin for karma test runner",
+  "description": "grunt plugin for karma test runner - using new karma as of compared to grunt-karma",
   "main": "tasks/grunt-karma.js",
   "repository": {
     "type": "git",
